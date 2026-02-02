@@ -532,11 +532,11 @@
             <mxPoint x="1170" y="459" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bYaMPyUU828n6Uom15c9-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="bYaMPyUU828n6Uom15c9-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" value="" vertex="1">
           <mxGeometry height="850" width="10" x="1050" as="geometry" />
         </mxCell>
-        <mxCell id="bYaMPyUU828n6Uom15c9-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="850" width="10" as="geometry" />
+        <mxCell id="bYaMPyUU828n6Uom15c9-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="" vertex="1">
+          <mxGeometry height="820" width="10" y="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
