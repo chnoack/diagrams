@@ -484,9 +484,6 @@
         <mxCell id="RmwxuSjg65sJtTzuxqFg-1" parent="1" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;strokeWidth=3;" value="" vertex="1">
           <mxGeometry height="642.27" width="20" x="300" y="107.73" as="geometry" />
         </mxCell>
-        <mxCell id="RmwxuSjg65sJtTzuxqFg-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;784&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="60" x="170" y="410" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
